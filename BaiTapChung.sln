@@ -5,6 +5,14 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introduction\Introduction.pyproj", "{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB05", "LuyenCode_CB05\LuyenCode_CB05.pyproj", "{1CF85E8A-0156-4CEF-B340-4272A328B72F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB06", "LuyenCode_CB06\LuyenCode_CB06.pyproj", "{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB07", "LuyenCode_CB07\LuyenCode_CB07.pyproj", "{2CEA526F-AAD9-4B6F-A469-6FF58688F7C8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB08", "LuyenCode_CB08\LuyenCode_CB08.pyproj", "{A8A43122-F038-4981-94F4-B89A3FC5E61F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +21,14 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF85E8A-0156-4CEF-B340-4272A328B72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF85E8A-0156-4CEF-B340-4272A328B72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEA526F-AAD9-4B6F-A469-6FF58688F7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEA526F-AAD9-4B6F-A469-6FF58688F7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A43122-F038-4981-94F4-B89A3FC5E61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A43122-F038-4981-94F4-B89A3FC5E61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
