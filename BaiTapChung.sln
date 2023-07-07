@@ -9,6 +9,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK09", "LuyenCode
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK10", "LuyenCode_DK10\LuyenCode_DK10.pyproj", "{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL01", "LuyenCode_VL01\LuyenCode_VL01.pyproj", "{90ECE9E2-B5F7-42E6-B4E7-50B3B71E6C7E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_SUM1", "LuyenCode_SUM1\LuyenCode_SUM1.pyproj", "{C3BE9FDC-EC36-4A73-A0BE-B2FC073A065F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,10 @@ Global
 		{355892A4-51D0-4F2F-AD56-76F7E0514FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90ECE9E2-B5F7-42E6-B4E7-50B3B71E6C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90ECE9E2-B5F7-42E6-B4E7-50B3B71E6C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BE9FDC-EC36-4A73-A0BE-B2FC073A065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BE9FDC-EC36-4A73-A0BE-B2FC073A065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
