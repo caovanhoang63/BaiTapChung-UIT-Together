@@ -5,7 +5,6 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introduction\Introduction.pyproj", "{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}"
 EndProject
-<<<<<<< HEAD
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB05", "LuyenCode_CB05\LuyenCode_CB05.pyproj", "{1CF85E8A-0156-4CEF-B340-4272A328B72F}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB06", "LuyenCode_CB06\LuyenCode_CB06.pyproj", "{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}"
@@ -13,7 +12,7 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB07", "LuyenCode_CB07\LuyenCode_CB07.pyproj", "{2CEA526F-AAD9-4B6F-A469-6FF58688F7C8}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB08", "LuyenCode_CB08\LuyenCode_CB08.pyproj", "{A8A43122-F038-4981-94F4-B89A3FC5E61F}"
-=======
+EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB01", "LuyenCode_CB01\LuyenCode_CB01.pyproj", "{686143C1-C8BA-49E8-B5B8-11F99F913EA4}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB02", "LuyenCode_CB02\LuyenCode_CB02.pyproj", "{AC50A23B-5AFB-4AAC-A03B-5ABF85363BD6}"
@@ -21,7 +20,12 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB03", "LuyenCode_CB03\LuyenCode_CB03.pyproj", "{3B28F366-7B2C-408D-B053-5809E311B7C9}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB04", "LuyenCode_CB04\LuyenCode_CB04.pyproj", "{D107A93E-393E-4B58-A4F6-E726159951AF}"
->>>>>>> 92976b7e045f4cad7afcd044e2d7d3a53f19fe78
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CodeForce_WaterMelon", "CodeForce_WaterMelon\CodeForce_WaterMelon.pyproj", "{7D8374A6-92F7-4487-9664-D1C522909E0A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_SimpleSumArray", "HackerRank_SimpleSumArray\HackerRank_SimpleSumArray.pyproj", "{8B8B4E76-41BB-4DEB-9626-785380D613BC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_diagonal-difference", "HackerRank_diagonal-difference\HackerRank_diagonal-difference.pyproj", "{485E209B-9B11-47CA-A70D-EEB724DAEC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,7 +35,6 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
-<<<<<<< HEAD
 		{1CF85E8A-0156-4CEF-B340-4272A328B72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1CF85E8A-0156-4CEF-B340-4272A328B72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -40,7 +43,6 @@ Global
 		{2CEA526F-AAD9-4B6F-A469-6FF58688F7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A43122-F038-4981-94F4-B89A3FC5E61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A8A43122-F038-4981-94F4-B89A3FC5E61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-=======
 		{686143C1-C8BA-49E8-B5B8-11F99F913EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{686143C1-C8BA-49E8-B5B8-11F99F913EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC50A23B-5AFB-4AAC-A03B-5ABF85363BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -49,7 +51,12 @@ Global
 		{3B28F366-7B2C-408D-B053-5809E311B7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D107A93E-393E-4B58-A4F6-E726159951AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D107A93E-393E-4B58-A4F6-E726159951AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
->>>>>>> 92976b7e045f4cad7afcd044e2d7d3a53f19fe78
+		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
