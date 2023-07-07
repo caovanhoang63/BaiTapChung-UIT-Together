@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introductio
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB01", "LuyenCode_CB01\LuyenCode_CB01.pyproj", "{686143C1-C8BA-49E8-B5B8-11F99F913EA4}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB02", "LuyenCode_CB02\LuyenCode_CB02.pyproj", "{AC50A23B-5AFB-4AAC-A03B-5ABF85363BD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{686143C1-C8BA-49E8-B5B8-11F99F913EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{686143C1-C8BA-49E8-B5B8-11F99F913EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC50A23B-5AFB-4AAC-A03B-5ABF85363BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC50A23B-5AFB-4AAC-A03B-5ABF85363BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
