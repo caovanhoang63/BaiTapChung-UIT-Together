@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introduction\Introduction.pyproj", "{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB01", "LuyenCode_CB01\LuyenCode_CB01.pyproj", "{686143C1-C8BA-49E8-B5B8-11F99F913EA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686143C1-C8BA-49E8-B5B8-11F99F913EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686143C1-C8BA-49E8-B5B8-11F99F913EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
