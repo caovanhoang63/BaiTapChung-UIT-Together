@@ -5,6 +5,12 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introduction\Introduction.pyproj", "{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK05", "LuyenCode_DK05\LuyenCode_DK05.pyproj", "{6B0D2E8F-3106-4B8C-9019-14BCE0508838}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK06", "LuyenCode_DK06\LuyenCode_DK06.pyproj", "{DB24D925-EC92-4ABC-91E0-EFE32965FF19}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK07", "LuyenCode_DK07\LuyenCode_DK07.pyproj", "{9E6A383F-D989-4CE8-91E6-B8F431F6E9AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0D2E8F-3106-4B8C-9019-14BCE0508838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0D2E8F-3106-4B8C-9019-14BCE0508838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB24D925-EC92-4ABC-91E0-EFE32965FF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB24D925-EC92-4ABC-91E0-EFE32965FF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6A383F-D989-4CE8-91E6-B8F431F6E9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6A383F-D989-4CE8-91E6-B8F431F6E9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
