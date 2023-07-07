@@ -3,7 +3,7 @@ print(a+b)
 print(a-b)
 print(a*b)
 if b != 0:
-    print(a/b)
+    print("{:.2f}".format(a/b))
 else:
     print("ERROR")
 

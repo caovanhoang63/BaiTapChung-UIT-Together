@@ -13,6 +13,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB03", "LuyenCode
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB04", "LuyenCode_CB04\LuyenCode_CB04.pyproj", "{D107A93E-393E-4B58-A4F6-E726159951AF}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CodeForce_WaterMelon", "CodeForce_WaterMelon\CodeForce_WaterMelon.pyproj", "{7D8374A6-92F7-4487-9664-D1C522909E0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,8 @@ Global
 		{3B28F366-7B2C-408D-B053-5809E311B7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D107A93E-393E-4B58-A4F6-E726159951AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D107A93E-393E-4B58-A4F6-E726159951AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
