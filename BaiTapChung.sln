@@ -27,6 +27,14 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_SimpleSumArray",
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_diagonal-difference", "HackerRank_diagonal-difference\HackerRank_diagonal-difference.pyproj", "{485E209B-9B11-47CA-A70D-EEB724DAEC17}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK08", "LuyenCode_DK08\LuyenCode_DK08.pyproj", "{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_PlusMinus", "HackerRank_PlusMinus\HackerRank_PlusMinus.pyproj", "{52F6296B-4BC7-41C7-A92D-CC5E57483126}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_StairCase", "HackerRank_StairCase\HackerRank_StairCase.pyproj", "{2B49DC7B-FC6C-4494-955A-C4C87A8F9FE0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_TimeConvert", "HackerRank_TimeConvert\HackerRank_TimeConvert.pyproj", "{5C24C03D-AF64-4D37-8A1F-949F6827FB9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +65,14 @@ Global
 		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F6296B-4BC7-41C7-A92D-CC5E57483126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F6296B-4BC7-41C7-A92D-CC5E57483126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B49DC7B-FC6C-4494-955A-C4C87A8F9FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B49DC7B-FC6C-4494-955A-C4C87A8F9FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C24C03D-AF64-4D37-8A1F-949F6827FB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C24C03D-AF64-4D37-8A1F-949F6827FB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
