@@ -61,6 +61,14 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL14", "LuyenCode
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CodeForce_WayTooLongWords", "CodeForce_WayTooLongWords\CodeForce_WayTooLongWords.pyproj", "{DC864AC3-46FB-4309-8C7D-0F0290B8AF92}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_GT1", "LuyenCode_GT1\LuyenCode_GT1.pyproj", "{2AF4FC81-CC98-4117-9841-335C7EA8FA53}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL11", "LuyenCode_VL11\LuyenCode_VL11.pyproj", "{FFEE0F5A-6394-4C5F-BBEA-EB8B50C3235A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL17", "LuyenCode_VL17\LuyenCode_VL17.pyproj", "{01EAA60C-1925-4877-83EE-3ABD897E7627}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VT01", "LuyenCode_VT01\LuyenCode_VT01.pyproj", "{656A8AAD-127D-4212-8733-87196E976DE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +133,14 @@ Global
 		{7104E79D-7B5D-4054-89AE-9D9FAF531812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC864AC3-46FB-4309-8C7D-0F0290B8AF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC864AC3-46FB-4309-8C7D-0F0290B8AF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF4FC81-CC98-4117-9841-335C7EA8FA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF4FC81-CC98-4117-9841-335C7EA8FA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEE0F5A-6394-4C5F-BBEA-EB8B50C3235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEE0F5A-6394-4C5F-BBEA-EB8B50C3235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EAA60C-1925-4877-83EE-3ABD897E7627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EAA60C-1925-4877-83EE-3ABD897E7627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656A8AAD-127D-4212-8733-87196E976DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656A8AAD-127D-4212-8733-87196E976DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
