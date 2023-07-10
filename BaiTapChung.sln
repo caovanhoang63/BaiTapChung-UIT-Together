@@ -5,12 +5,24 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introduction\Introduction.pyproj", "{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}"
 EndProject
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> a25582c6d947c58f80493ea4c06b4cbdac482d93
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK05", "LuyenCode_DK05\LuyenCode_DK05.pyproj", "{6B0D2E8F-3106-4B8C-9019-14BCE0508838}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK06", "LuyenCode_DK06\LuyenCode_DK06.pyproj", "{DB24D925-EC92-4ABC-91E0-EFE32965FF19}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK07", "LuyenCode_DK07\LuyenCode_DK07.pyproj", "{9E6A383F-D989-4CE8-91E6-B8F431F6E9AC}"
 EndProject
+<<<<<<< HEAD
+=======
+>>>>>>> 71ffae642de6c0c5def7162064e400110ce3ef01
+>>>>>>> a25582c6d947c58f80493ea4c06b4cbdac482d93
+>>>>>>> 4b6ba7fb72b9bcfcfdb1cb6ef733d012e7889fb2
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK09", "LuyenCode_DK09\LuyenCode_DK09.pyproj", "{355892A4-51D0-4F2F-AD56-76F7E0514FFC}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK10", "LuyenCode_DK10\LuyenCode_DK10.pyproj", "{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}"
@@ -47,6 +59,35 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_PythonIfElse", "
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL05", "LuyenCode_VL05\LuyenCode_VL05.pyproj", "{2B7230FD-B54E-485D-A91F-B0D5A5448007}"
 EndProject
+<<<<<<< HEAD
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_diagonal-difference", "HackerRank_diagonal-difference\HackerRank_diagonal-difference.pyproj", "{485E209B-9B11-47CA-A70D-EEB724DAEC17}"
+EndProject
+<<<<<<< HEAD
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL08", "LuyenCode_VL08\LuyenCode_VL08.pyproj", "{2DC55A73-DCF1-43C8-A0E5-8DFCF6C75E58}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL13", "LuyenCode_VL13\LuyenCode_VL13.pyproj", "{A4FC9C11-69B2-4CA8-A4BF-E9F8331E9F8A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL19", "LuyenCode_VL19\LuyenCode_VL19.pyproj", "{C17F9744-E670-4459-9627-ECC464A53694}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VT03", "LuyenCode_VT03\LuyenCode_VT03.pyproj", "{443C1EC6-9CF8-43E2-8309-E0C38A3BFD02}"
+=======
+<<<<<<< HEAD
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL04", "LuyenCode_VL04\LuyenCode_VL04.pyproj", "{87DFB134-F239-4D11-881E-32CB9BD994ED}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL09", "LuyenCode_VL09\LuyenCode_VL09.pyproj", "{40D2F818-A22F-412C-9097-4418F0A71379}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL15", "LuyenCode_VL15\LuyenCode_VL15.pyproj", "{E47614AC-49C1-4094-BD15-B6D06B5D5DA3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL21", "LuyenCode_VL21\LuyenCode_VL21.pyproj", "{310099EF-F98D-4562-89BA-9B51651FA9DF}"
+=======
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL07", "LuyenCode_VL07\LuyenCode_VL07.pyproj", "{A7968B11-51B1-400E-9005-7802309BCA8B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL12", "LuyenCode_VL12\LuyenCode_VL12.pyproj", "{C2D8DD0A-5CFE-445B-94D6-2640AEEB0E92}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL18", "LuyenCode_VL18\LuyenCode_VL18.pyproj", "{ADADB899-BFB6-4DF6-A1ED-2F3845E84514}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VT02", "LuyenCode_VT02\LuyenCode_VT02.pyproj", "{127B2F1D-9F63-42AE-9015-33598D181F65}"
+=======
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL10", "LuyenCode_VL10\LuyenCode_VL10.pyproj", "{8D36C704-FCB5-4F89-8E3F-46C40354D21A}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL16", "LuyenCode_VL16\LuyenCode_VL16.pyproj", "{16509FA7-67B9-458D-B8A9-9AAD288CBEE4}"
@@ -72,6 +113,9 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL17", "LuyenCode_VL17\LuyenCode_VL17.pyproj", "{01EAA60C-1925-4877-83EE-3ABD897E7627}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VT01", "LuyenCode_VT01\LuyenCode_VT01.pyproj", "{656A8AAD-127D-4212-8733-87196E976DE2}"
+>>>>>>> 71ffae642de6c0c5def7162064e400110ce3ef01
+>>>>>>> a25582c6d947c58f80493ea4c06b4cbdac482d93
+>>>>>>> 4b6ba7fb72b9bcfcfdb1cb6ef733d012e7889fb2
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_WriteAFunction", "HackerRank_WriteAFunction\HackerRank_WriteAFunction.pyproj", "{D923EE00-1810-47CF-8963-9811FD62CF02}"
 EndProject
@@ -85,12 +129,24 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> a25582c6d947c58f80493ea4c06b4cbdac482d93
 		{6B0D2E8F-3106-4B8C-9019-14BCE0508838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6B0D2E8F-3106-4B8C-9019-14BCE0508838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB24D925-EC92-4ABC-91E0-EFE32965FF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB24D925-EC92-4ABC-91E0-EFE32965FF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E6A383F-D989-4CE8-91E6-B8F431F6E9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9E6A383F-D989-4CE8-91E6-B8F431F6E9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+<<<<<<< HEAD
+=======
+>>>>>>> 71ffae642de6c0c5def7162064e400110ce3ef01
+>>>>>>> a25582c6d947c58f80493ea4c06b4cbdac482d93
+>>>>>>> 4b6ba7fb72b9bcfcfdb1cb6ef733d012e7889fb2
 		{355892A4-51D0-4F2F-AD56-76F7E0514FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{355892A4-51D0-4F2F-AD56-76F7E0514FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -133,6 +189,46 @@ Global
 		{16509FA7-67B9-458D-B8A9-9AAD288CBEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEF67AA-BBDF-423C-8C20-20BC9691268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FEEF67AA-BBDF-423C-8C20-20BC9691268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+<<<<<<< HEAD
+=======
+=======
+		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+<<<<<<< HEAD
+		{2DC55A73-DCF1-43C8-A0E5-8DFCF6C75E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC55A73-DCF1-43C8-A0E5-8DFCF6C75E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FC9C11-69B2-4CA8-A4BF-E9F8331E9F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FC9C11-69B2-4CA8-A4BF-E9F8331E9F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17F9744-E670-4459-9627-ECC464A53694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17F9744-E670-4459-9627-ECC464A53694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443C1EC6-9CF8-43E2-8309-E0C38A3BFD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443C1EC6-9CF8-43E2-8309-E0C38A3BFD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+=======
+<<<<<<< HEAD
+		{87DFB134-F239-4D11-881E-32CB9BD994ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DFB134-F239-4D11-881E-32CB9BD994ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D2F818-A22F-412C-9097-4418F0A71379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D2F818-A22F-412C-9097-4418F0A71379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47614AC-49C1-4094-BD15-B6D06B5D5DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47614AC-49C1-4094-BD15-B6D06B5D5DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310099EF-F98D-4562-89BA-9B51651FA9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310099EF-F98D-4562-89BA-9B51651FA9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+=======
+<<<<<<< HEAD
+		{A7968B11-51B1-400E-9005-7802309BCA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7968B11-51B1-400E-9005-7802309BCA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D8DD0A-5CFE-445B-94D6-2640AEEB0E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D8DD0A-5CFE-445B-94D6-2640AEEB0E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADADB899-BFB6-4DF6-A1ED-2F3845E84514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADADB899-BFB6-4DF6-A1ED-2F3845E84514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127B2F1D-9F63-42AE-9015-33598D181F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127B2F1D-9F63-42AE-9015-33598D181F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+=======
+>>>>>>> e3a670cb7371c5c8a6f0d448b78a064db3be6319
 		{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F6296B-4BC7-41C7-A92D-CC5E57483126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -153,10 +249,17 @@ Global
 		{01EAA60C-1925-4877-83EE-3ABD897E7627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656A8AAD-127D-4212-8733-87196E976DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{656A8AAD-127D-4212-8733-87196E976DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+<<<<<<< HEAD
 		{D923EE00-1810-47CF-8963-9811FD62CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D923EE00-1810-47CF-8963-9811FD62CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04D64DA8-E219-4851-B19E-4AEDBA196746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{04D64DA8-E219-4851-B19E-4AEDBA196746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+=======
+>>>>>>> 1f3d881dc6402f3e224cc3da5b7bf3f745906562
+>>>>>>> 71ffae642de6c0c5def7162064e400110ce3ef01
+>>>>>>> a25582c6d947c58f80493ea4c06b4cbdac482d93
+>>>>>>> 4b6ba7fb72b9bcfcfdb1cb6ef733d012e7889fb2
+>>>>>>> e3a670cb7371c5c8a6f0d448b78a064db3be6319
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,22 +1,26 @@
 def Nhap():
-    Result=[int(x) for x in input().split()]
-    return Result
+    return list(map(int, input().split()))
+
 def NhapSo():
-    a,b=[int(x) for x in input().split()]
-    return a,b
+    return map(int, input().split())
+
 def Feeling(D,A,B):
-    Feel=0
-    for i in range(len(D)):
-        if (D[i] in A):
-            Feel+=1
-        elif (D[i] in B):
-            Feel-=1
-    return Feel
+    feeling_count = {num: 1 for num in A}
+    feeling_count.update({num: -1 for num in B})
+
+    feel = 0
+    for num in D:
+        if num in feeling_count:
+            feel += feeling_count[num]
+    
+    return feel
+
 def main():
-    n,m=NhapSo()
-    D=Nhap()
-    A=Nhap()
-    B=Nhap()
-    print(Feeling(D,A,B))
-if __name__=='__main__':
+    n, m = NhapSo()
+    D = Nhap()
+    A = set(Nhap())
+    B = set(Nhap())
+    print(Feeling(D, A, B))
+
+if __name__ == '__main__':
     main()
