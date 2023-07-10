@@ -73,6 +73,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL17", "LuyenCode
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VT01", "LuyenCode_VT01\LuyenCode_VT01.pyproj", "{656A8AAD-127D-4212-8733-87196E976DE2}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_WriteAFunction", "HackerRank_WriteAFunction\HackerRank_WriteAFunction.pyproj", "{D923EE00-1810-47CF-8963-9811FD62CF02}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_NoIdea", "HackerRank_NoIdea\HackerRank_NoIdea.pyproj", "{04D64DA8-E219-4851-B19E-4AEDBA196746}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,7 +123,6 @@ Global
 		{7EF98216-708B-445C-8745-7CCD9051F512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D107A93E-393E-4B58-A4F6-E726159951AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D107A93E-393E-4B58-A4F6-E726159951AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-<<<<<<< HEAD
 		{D2748979-22FF-468F-B6F2-0CFB1D83FABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D2748979-22FF-468F-B6F2-0CFB1D83FABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B7230FD-B54E-485D-A91F-B0D5A5448007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -130,13 +133,6 @@ Global
 		{16509FA7-67B9-458D-B8A9-9AAD288CBEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEF67AA-BBDF-423C-8C20-20BC9691268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FEEF67AA-BBDF-423C-8C20-20BC9691268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-=======
-		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D8374A6-92F7-4487-9664-D1C522909E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADAEA044-4CE3-4F79-9F66-6E793B8651F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F6296B-4BC7-41C7-A92D-CC5E57483126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -157,7 +153,10 @@ Global
 		{01EAA60C-1925-4877-83EE-3ABD897E7627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656A8AAD-127D-4212-8733-87196E976DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{656A8AAD-127D-4212-8733-87196E976DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
->>>>>>> 1f3d881dc6402f3e224cc3da5b7bf3f745906562
+		{D923EE00-1810-47CF-8963-9811FD62CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D923EE00-1810-47CF-8963-9811FD62CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D64DA8-E219-4851-B19E-4AEDBA196746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D64DA8-E219-4851-B19E-4AEDBA196746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
