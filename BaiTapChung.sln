@@ -5,7 +5,6 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Introduction", "Introduction\Introduction.pyproj", "{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}"
 EndProject
-<<<<<<< HEAD
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK09", "LuyenCode_DK09\LuyenCode_DK09.pyproj", "{355892A4-51D0-4F2F-AD56-76F7E0514FFC}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_DK10", "LuyenCode_DK10\LuyenCode_DK10.pyproj", "{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}"
@@ -13,7 +12,7 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL01", "LuyenCode_VL01\LuyenCode_VL01.pyproj", "{90ECE9E2-B5F7-42E6-B4E7-50B3B71E6C7E}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_SUM1", "LuyenCode_SUM1\LuyenCode_SUM1.pyproj", "{C3BE9FDC-EC36-4A73-A0BE-B2FC073A065F}"
-=======
+EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB05", "LuyenCode_CB05\LuyenCode_CB05.pyproj", "{1CF85E8A-0156-4CEF-B340-4272A328B72F}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_CB06", "LuyenCode_CB06\LuyenCode_CB06.pyproj", "{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}"
@@ -35,7 +34,14 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_SimpleSumArray", "HackerRank_SimpleSumArray\HackerRank_SimpleSumArray.pyproj", "{8B8B4E76-41BB-4DEB-9626-785380D613BC}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRank_diagonal-difference", "HackerRank_diagonal-difference\HackerRank_diagonal-difference.pyproj", "{485E209B-9B11-47CA-A70D-EEB724DAEC17}"
->>>>>>> 6663bca37ab7e3f5900a258d8f7d875e1e50c6fb
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL08", "LuyenCode_VL08\LuyenCode_VL08.pyproj", "{2DC55A73-DCF1-43C8-A0E5-8DFCF6C75E58}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL13", "LuyenCode_VL13\LuyenCode_VL13.pyproj", "{A4FC9C11-69B2-4CA8-A4BF-E9F8331E9F8A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VL19", "LuyenCode_VL19\LuyenCode_VL19.pyproj", "{C17F9744-E670-4459-9627-ECC464A53694}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LuyenCode_VT03", "LuyenCode_VT03\LuyenCode_VT03.pyproj", "{443C1EC6-9CF8-43E2-8309-E0C38A3BFD02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,7 +51,6 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE2A5182-6517-4D6C-ABEC-A10CB62DC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
-<<<<<<< HEAD
 		{355892A4-51D0-4F2F-AD56-76F7E0514FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{355892A4-51D0-4F2F-AD56-76F7E0514FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6FCD9D-6AF7-4AA5-A072-C801CB11942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -54,7 +59,6 @@ Global
 		{90ECE9E2-B5F7-42E6-B4E7-50B3B71E6C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3BE9FDC-EC36-4A73-A0BE-B2FC073A065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3BE9FDC-EC36-4A73-A0BE-B2FC073A065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-=======
 		{1CF85E8A-0156-4CEF-B340-4272A328B72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1CF85E8A-0156-4CEF-B340-4272A328B72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{183AB61E-15F2-4101-80EE-6FFDC33D2BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -77,7 +81,14 @@ Global
 		{8B8B4E76-41BB-4DEB-9626-785380D613BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{485E209B-9B11-47CA-A70D-EEB724DAEC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
->>>>>>> 6663bca37ab7e3f5900a258d8f7d875e1e50c6fb
+		{2DC55A73-DCF1-43C8-A0E5-8DFCF6C75E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC55A73-DCF1-43C8-A0E5-8DFCF6C75E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FC9C11-69B2-4CA8-A4BF-E9F8331E9F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FC9C11-69B2-4CA8-A4BF-E9F8331E9F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17F9744-E670-4459-9627-ECC464A53694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17F9744-E670-4459-9627-ECC464A53694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443C1EC6-9CF8-43E2-8309-E0C38A3BFD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443C1EC6-9CF8-43E2-8309-E0C38A3BFD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

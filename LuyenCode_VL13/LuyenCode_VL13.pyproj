@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>77de3a57-2dbe-4a47-85ac-bac667bfd2c2</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
-    <StartupFile>LuyenCode_VL01.py</StartupFile>
+    <ProjectGuid>a4fc9c11-69b2-4ca8-a4bf-e9f8331e9f8a</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>LuyenCode_VL13.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>LuyenCode_VL01</Name>
-    <RootNamespace>VL01</RootNamespace>
+    <Name>LuyenCode_VL13</Name>
+    <RootNamespace>LuyenCode_VL13</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LuyenCode_VL01.py" />
+    <Compile Include="LuyenCode_VL13.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
